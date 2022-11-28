@@ -1,0 +1,21 @@
+#reg{
+    background-color: pink;
+    margin-right: 1000px;
+    border: 2px solid rgb(143, 190, 147);
+    border-radius: 10px;
+    /* border-left: 5px; */
+}
+body{
+    margin-right: 50px;
+    background-color: aqua;
+}
+#b1,#b2{
+    font-size: 20px;
+}
+#login{
+    border: 2px solid rgb(143, 190, 147);
+    margin-right: 1000px;
+    border-radius: 10px;
+    background-color: yellow;
+    margin-bottom: 200px;
+}
